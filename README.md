@@ -1,4 +1,4 @@
-# Claude Code Solutions
+# Claude Code Setup
 
 Two engineering documents on running Claude Code as a development platform rather than as an
 autocomplete: one describing an environment that exists, one proposing a setup a team can adopt.
